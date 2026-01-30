@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/UnCR-Esz)
 [![Open in Codespaces](https://classroom.github.com/assets/launch-codespace-2972f46106e565e64193e422d61a12cf1da4916b45550586e14ef0a7c637dd04.svg)](https://classroom.github.com/open-in-codespaces?assignment_repo_id=22446055)
 # ECM1410-Workshop03-Instructions
@@ -553,3 +554,17 @@ LINE 70: `declare -A pairs=( ["5\n"]="""1234554321`
 
 
      
+=======
+# ECM1410: Object Oriented Programming
+**Week 03: Java Basics Practice 2**
+
+Please find the instructions for workshop 03 at:
+
+https://github.com/My-UofE/ECM1410-Workshop03-Instructions/blob/main/README.md
+
+Your work will be tested and the resulting grade will form 7.5% of your module grade.
+
+The deadline for submitting (by committing your code to. to GitHub) is Monday 3rd Jan 17:15pm.
+
+If you find any issues or typos please email p.lewis2@exeter.ac.uk so they can be corrected.
+>>>>>>> ecm1410w3/main
