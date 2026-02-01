@@ -1,0 +1,51 @@
+javac DemoIncrement.java ... ok
+java DemoIncrement ... ok
+Line 1 variable values ... failed
+Expected output:
+a: 4, b: 8, x: 4, y: 9
+Line 2 i++ ... failed , p: 4
+, p: 4
+Line 3 ++i means ... ok
+FAILED: DemoIncrement.java
+----
+javac AgeToGroup.java ... failed
+12 0 ... failed
+18 0 ... failed
+50 1 ... failed
+65 2 ... failed
+100 2 ... failed
+FAILED: AgeToGroup.java
+----
+javac NumbersInSpanish.java ... failed
+0 Sorry I do not know that! ... failed
+1 uno ... failed
+2 dos ... failed
+3 tres ... failed
+4 cuatro ... failed
+5 cinco ... failed
+6 Sorry I do not know that! ... failed
+FAILED: NumbersInSpanish.java
+----
+here
+javac PrintSquares.java ... ok
+PASSED: PrintSquares.java
+----
+javac SumSquares.java ... failed
+FAILED: SumSquares.java
+----
+javac AverageSquares.java ... failed
+FAILED: AverageSquares.java
+----
+javac PrintPattern1.java ... failed
+PrintPattern1 1 ... failed
+PrintPattern1 3 ... failed
+PrintPattern1 7 ... failed
+FAILED: PrintPattern1.java
+----
+javac PrintPattern2.java ... failed
+PrintPattern2 too small! ... failed
+PrintPattern2 too big! ... failed
+FAILED: PrintPattern2.java
+----
+--- RESULT: ---
+Your score is 1 / 7.5
